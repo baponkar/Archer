@@ -1,3 +1,3 @@
 # Archer
 
-![Screenshot]("/Screenshot/screenshot.png")
+![Screenshot](Screenshot/screenshot.png)
