@@ -4,5 +4,6 @@
 
 
 Credits 
-1. ![Sahani Studio]()
-2. ![Free Medival Weapons]()
+1. [Sahani Studio]()
+2. [Free Medival Weapons]()
+3. [Pixabay]()
