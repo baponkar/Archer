@@ -9,6 +9,7 @@ namespace Baponkar.Archer
     {
         public AudioSource[] footSteps;
         public AudioSource breathing;
+        public AudioSource land;
         Animator animator;
 
         private void Start()
@@ -27,6 +28,8 @@ namespace Baponkar.Archer
             {
                 breathing.Stop();
             }
+
+            
         }
 
         public void  PlayFootStep()

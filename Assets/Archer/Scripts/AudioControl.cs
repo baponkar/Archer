@@ -11,6 +11,7 @@ namespace Baponkar.Archer
         public AudioSource bow_release;
         public AudioSource arrow_impact;
         public AudioSource breathing;
+        public AudioSource land;
 
         public void PlayBreath()
         {
@@ -34,6 +35,11 @@ namespace Baponkar.Archer
         public void PlayArrowImpact()
         {
             arrow_impact.Play();
+        }
+
+        public void PlayLand()
+        {
+            land.Play();
         }
     }
 }
