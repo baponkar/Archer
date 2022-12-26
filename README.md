@@ -29,5 +29,5 @@ Demo
 
 Credits 
 1. [Sahani Studio]()
-2. [Free Medival Weapons]()
+2. [Free Medival Weapons. by Osmann]()
 3. [Pixabay]()
