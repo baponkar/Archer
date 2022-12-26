@@ -5,18 +5,18 @@
 ![C#](https://img.shields.io/badge/C-%23-lightgrey)
 
 A Third Person  🏹 Archer Player.
-[ x ] Walk  🚶
+- [x] Walk  🚶
 
-[ x ] Sprint 🏃
+- [x] Sprint 🏃
 
-[ x ] Jump 
+- [x] Jump 
 
-[ x ] Vault 
+- [x] Vault 
 
-[ x ] Arrow Aim
+- [x] Arrow Aim
 
 
-[ x ] Arrow Fire
+- [x] Arrow Fire
 
  
 ![Screenshot](Screenshot/screenshot.png)
